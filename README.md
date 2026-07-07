@@ -1,1 +1,1 @@
-# GameDesign
+# KAIST Topics in Game<Innovative Game Design Project>
